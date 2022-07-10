@@ -28,8 +28,9 @@ k là số mô phỏng của một nút con
  
 
 II. Link Demo ứng dụng trò chơi TicTacToe
+
  
-II. Tài liệu tham khảo
+III. Tài liệu tham khảo
 https://stanford.edu/~rezab/classes/cme323/S15/projects/montecarlo_search_tree_report.pdf
 https://www.geeksforgeeks.org/ml-monte-carlo-tree-search-mcts/
 https://sj.ctu.edu.vn/ql/docgia/download/baibao-31323/12-NGUYEN%20QUOC%20HUY(17-24).pdf
